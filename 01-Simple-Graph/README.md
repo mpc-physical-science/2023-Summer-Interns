@@ -7,4 +7,4 @@ The following should be user inputs:
 - the range over which to plot it
 - labels for the graph, x-axis and y-axis
 
-that's it!
+There are several graphing libraries available for python, I like the looks of [plotly](https://plotly.com/python/) for adding interactivity down the line.
