@@ -8,7 +8,7 @@ Notes and documents are formatted using Markdown. For more about Markdown, see [
 
 ## Projects
 
-[01-Simple-Graph]("01-Simple-Graph/")
+[01-Simple-Graph](01-Simple-Graph/)
 
 ## Resources
 - [git](https://git-scm.com/)
