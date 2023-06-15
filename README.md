@@ -10,6 +10,7 @@ Notes and documents are formatted using Markdown. For more about Markdown, see [
 
 1. [01-Average-Calc](01-Average-Calc/)
 1. [02-Simple-Graph](02-Simple-Graph/)
+1. [03-Linear-Fit](03-Linear-Fit/)
 
 ## Resources
 - [git](https://git-scm.com/)
