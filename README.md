@@ -8,8 +8,8 @@ Notes and documents are formatted using Markdown. For more about Markdown, see [
 
 ## Projects
 
-* [01-Average-Calc](01-Average-Calc/)
-* [01-Simple-Graph](01-Simple-Graph/)
+1. [01-Average-Calc](01-Average-Calc/)
+1. [01-Simple-Graph](01-Simple-Graph/)
 
 ## Resources
 - [git](https://git-scm.com/)
