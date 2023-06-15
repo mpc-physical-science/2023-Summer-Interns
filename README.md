@@ -9,7 +9,7 @@ Notes and documents are formatted using Markdown. For more about Markdown, see [
 ## Projects
 
 1. [01-Average-Calc](01-Average-Calc/)
-1. [01-Simple-Graph](01-Simple-Graph/)
+1. [02-Simple-Graph](02-Simple-Graph/)
 
 ## Resources
 - [git](https://git-scm.com/)
