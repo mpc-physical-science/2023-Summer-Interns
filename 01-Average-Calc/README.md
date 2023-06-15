@@ -1,6 +1,6 @@
 # Average Calc
 
-This notebook will tke as input a (variable length) list of values from the user. 
+This notebook will take as input a (variable length) list of values from the user. An editable table for the input values would be nice for legibility.
 
 The following should be calculated and clearly displayed:
 - the number of values supplied
