@@ -1,10 +1,10 @@
-# Simple Graph
+# Average Calc
 
-This project will get us started and make some room for experimetation with graphing using python libraries. The goal is to make a simple template for plotting an arbitrary fuction over some range. 
+This notebook will tke as input a (variable length) list of values from the user. 
 
-The following should be user inputs:
-- a function to plot
-- the range over which to plot it
-- labels for the graph, x-axis and y-axis
+The following should be calculated and clearly displayed:
+- the number of values supplied
+- the mean of the values
+- the standard deviation of the values
 
-There are several graphing libraries available for python, I like the looks of [plotly](https://plotly.com/python/) for adding interactivity down the line.
+BONUS: nicely formatted LaTex displays of the formulas used for mean, stdev
