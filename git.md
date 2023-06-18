@@ -1,4 +1,3 @@
-
 # git and github
 
 [git](https://git-scm.com/) is version control software, and [github](https://github.com/) is a website and service that makes it easy to use git to work together.

@@ -8,11 +8,3 @@ The following should be user inputs:
 - labels for the graph, x-axis and y-axis
 
 There are several graphing libraries available for python, I like the looks of [plotly](https://plotly.com/python/) for adding interactivity down the line.
-
-## Installation
-1. Terminal - `conda install -c conda-forge -c plotly jupyter-dash`
-1. Restart Jupyterlab
-
-## Example: plotly.ipynb
-Examine the example code the *plotly* notebook to solve some of the objectives.
-
