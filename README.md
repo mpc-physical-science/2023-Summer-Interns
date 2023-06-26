@@ -19,14 +19,13 @@ Take each algorithm step and divide them into two cells, one *Markdown* which is
 
 ## Projects
 
-1. [Ex-Average-Calc](Ex-Average-Calc/)
-1. [01-Kinetic-Energy](01-Kinetic-Energy/)
+1. [01-Average-Calc](01-Average-Calc/)
 1. [02-Simple-Graph](02-Simple-Graph/)
-1. [03-Graph-Kinetic-Energy](03-Graph-Kinetic-Energy/)
+1. [03-Linear-Fit](03-Linear-Fit/)
 
 ## Resources
 - [git](https://git-scm.com/)
 -  [Jupyter Notebook docs](https://jupyter-notebook.readthedocs.io/en/stable/)
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [Plotly python library](https://plotly.com/python/)
 - [Jupyter Physical Science Lab](https://github.com/orgs/JupyterPhysSciLab/repositories)
-- [Python Plotly Express](https://plotly.com/python/plotly-express/)
