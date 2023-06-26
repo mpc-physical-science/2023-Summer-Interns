@@ -7,7 +7,8 @@ This is a .git repository, read more [here](git.md).
 Notes and documents are formatted using Markdown. For more about Markdown, see [here](markdown.md).
 
 ## Template for Assignments
-The structure of each assignment will be the same and will have the following format:
+**Note:** Name each notebook with the same name as the folder encompassing the file. For example, the notebook in folder *Ex-Average-Calc* is also called *Ex-Average-Calc.ipynb* 
+**The structure of each assignment will be the same and will have the following format:**
 (*Note the markdown associated with each title/subtitle.*)
 # Title 
 Title matches the title of the assignment. Under the title, *copy/paste* the same text as the assignment.
@@ -15,17 +16,28 @@ Title matches the title of the assignment. Under the title, *copy/paste* the sam
 A numerical list of steps which need to happen to accomplish the objectives of the assignment.
 ## Program 
 Take each algorithm step and divide them into two cells, one *Markdown* which is the step description and the other is *Python*, which is the code which accomplishes the step.
+## Summary
+A *Markdown* text box which describes what you learned from the assignment. Please provide at least 3 elements to describe what you learned. 
 
+**Note: Following the prescribed format is critical to a successful grade of a notebook.** 
 
 ## Projects
 
-1. [01-Average-Calc](01-Average-Calc/)
+1. [Ex-Average-Calc](Ex-Average-Calc/)
+1. [01-Kinetic-Energy](01-Kinetic-Energy/)
 1. [02-Simple-Graph](02-Simple-Graph/)
-1. [03-Linear-Fit](03-Linear-Fit/)
+1. [03-Graph-Kinetic-Energy](03-Graph-Kinetic-Energy/)
 
 ## Resources
 - [git](https://git-scm.com/)
 -  [Jupyter Notebook docs](https://jupyter-notebook.readthedocs.io/en/stable/)
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
-- [Plotly python library](https://plotly.com/python/)
 - [Jupyter Physical Science Lab](https://github.com/orgs/JupyterPhysSciLab/repositories)
+- [Python Plotly Express](https://plotly.com/python/plotly-express/)
+
+## JupyterLab Notes
+1. Do **NOT** use the folder *ipynb_checkpoints*, this is an administrative folder which tracks changes to the individual notebooks. Don't delete it, don't use it. 
+2. It is strongly recommended to use the "*double-arrows*" or "*Restart the kernal and run all cells*", if you have unusual errors or errors which you believe you have fixed. The error could be the result of a previous cell which has yet to be updated. **When in doubt, click the double-arrows!**
+1. As a corollary to #2, check your cell numbering. When you have finished, the cell numbers need to be sequential from top to bottom, starting with 1. If not, either sequential nor starting with 1, click on the double-arrows. 
+3. Remember *JupyterLab* is designed to create lab notebooks which are easy to follow and re-create similar experiments. Be liberal with your comments in *Markdown* along with your coding cells. Having all of your code in one cell is an extremely bad practice.
+4. Review [*Ex-Average-Calc*](Ex-Average-Calc/) to see an example notebook which follows the prescribed format correctly.
